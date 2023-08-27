@@ -57,7 +57,7 @@
       "OSM(MOD_LGUI)",
       "OSM(MOD_LCTL)",
       "OSM(MOD_LSFT)",
-      "ANY(CW_TOGG))",
+      "CW_TOGG",
       "KC_LEFT",
       "KC_DOWN",
       "KC_UP",
