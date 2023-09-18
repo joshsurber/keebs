@@ -73,8 +73,8 @@
       "LCTL(KC_C)",
       "LCTL(KC_X)",
       "LCTL(KC_Z)",
-      "KC_TRNS",
-      "KC_TRNS",
+      "KC_ESC",
+      "KC_DEL",
       "ANY(undefined)",
       "MO(3)"
     ],
