@@ -3,7 +3,7 @@
   "vendorProductId": 4294836226,
   "macros": [
     "Autumn '23\n",
-    "Winter '23",
+    "5ign.all.homework.splendid",
     "",
     "",
     "kp",
@@ -161,7 +161,7 @@
       "KC_NO",
       "KC_NO",
       "KC_ENT",
-      "KC_BSPC",
+      "MACRO(15)",
       "KC_TRNS",
       "KC_NO",
       "TO(0)",
